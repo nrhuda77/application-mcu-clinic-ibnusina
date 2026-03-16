@@ -40,13 +40,21 @@ Technology Stack
 This system is built using modern web technologies:
 
 Backend: PHP / Laravel (adjust if different)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: MySQL
+
 UI Framework: Bootstrap
+
 Other Tools: Excel export / reporting tools
+
 System Workflow
+
 Patient registration
+
 Medical check-up examination
+
 Data input by medical staff
 
 Doctor verification
