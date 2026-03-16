@@ -1,0 +1,11 @@
+{
+    "name": "Kuisoner",
+    "alias": "kuisoner",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Kuisoner\\Providers\\KuisonerServiceProvider"
+    ],
+    "files": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ScorePemeriksaan",
+    "alias": "scorepemeriksaan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ScorePemeriksaan\\Providers\\ScorePemeriksaanServiceProvider"
+    ],
+    "files": []
+}

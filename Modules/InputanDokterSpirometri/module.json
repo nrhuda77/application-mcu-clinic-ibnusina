@@ -1,0 +1,11 @@
+{
+    "name": "InputanDokterSpirometri",
+    "alias": "inputandokterspirometri",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\InputanDokterSpirometri\\Providers\\InputanDokterSpirometriServiceProvider"
+    ],
+    "files": []
+}

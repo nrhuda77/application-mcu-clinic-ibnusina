@@ -1,0 +1,11 @@
+{
+    "name": "UploadGambarPemeriksaan",
+    "alias": "uploadgambarpemeriksaan",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UploadGambarPemeriksaan\\Providers\\UploadGambarPemeriksaanServiceProvider"
+    ],
+    "files": []
+}

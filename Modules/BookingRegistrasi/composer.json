@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/bookingregistrasi",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BookingRegistrasi\\": "app/",
+            "Modules\\BookingRegistrasi\\Database\\Factories\\": "database/factories/",
+            "Modules\\BookingRegistrasi\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\BookingRegistrasi\\Tests\\": "tests/"
+        }
+    }
+}

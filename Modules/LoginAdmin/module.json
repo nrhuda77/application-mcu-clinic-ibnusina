@@ -1,0 +1,11 @@
+{
+    "name": "LoginAdmin",
+    "alias": "loginadmin",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LoginAdmin\\Providers\\LoginAdminServiceProvider"
+    ],
+    "files": []
+}

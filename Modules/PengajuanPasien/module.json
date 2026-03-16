@@ -1,0 +1,11 @@
+{
+    "name": "PengajuanPasien",
+    "alias": "pengajuanpasien",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PengajuanPasien\\Providers\\PengajuanPasienServiceProvider"
+    ],
+    "files": []
+}

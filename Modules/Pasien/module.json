@@ -1,0 +1,11 @@
+{
+    "name": "Pasien",
+    "alias": "pasien",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Pasien\\Providers\\PasienServiceProvider"
+    ],
+    "files": []
+}

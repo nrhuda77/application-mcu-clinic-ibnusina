@@ -1,0 +1,11 @@
+{
+    "name": "PemeriksaanLanjut",
+    "alias": "pemeriksaanlanjut",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PemeriksaanLanjut\\Providers\\PemeriksaanLanjutServiceProvider"
+    ],
+    "files": []
+}

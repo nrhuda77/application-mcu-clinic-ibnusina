@@ -1,0 +1,11 @@
+{
+    "name": "RegistrasiPeriksa",
+    "alias": "registrasiperiksa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\RegistrasiPeriksa\\Providers\\RegistrasiPeriksaServiceProvider"
+    ],
+    "files": []
+}

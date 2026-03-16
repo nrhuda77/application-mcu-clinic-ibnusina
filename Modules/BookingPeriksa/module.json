@@ -1,0 +1,11 @@
+{
+    "name": "BookingPeriksa",
+    "alias": "bookingperiksa",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BookingPeriksa\\Providers\\BookingPeriksaServiceProvider"
+    ],
+    "files": []
+}

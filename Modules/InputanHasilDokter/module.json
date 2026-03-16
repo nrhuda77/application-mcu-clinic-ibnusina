@@ -1,0 +1,11 @@
+{
+    "name": "InputanHasilDokter",
+    "alias": "inputanhasildokter",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\InputanHasilDokter\\Providers\\InputanHasilDokterServiceProvider"
+    ],
+    "files": []
+}

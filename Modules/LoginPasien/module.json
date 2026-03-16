@@ -1,0 +1,11 @@
+{
+    "name": "LoginPasien",
+    "alias": "loginpasien",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LoginPasien\\Providers\\LoginPasienServiceProvider"
+    ],
+    "files": []
+}

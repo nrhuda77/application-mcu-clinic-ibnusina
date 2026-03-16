@@ -1,0 +1,11 @@
+{
+    "name": "ApprovalPasien",
+    "alias": "approvalpasien",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ApprovalPasien\\Providers\\ApprovalPasienServiceProvider"
+    ],
+    "files": []
+}

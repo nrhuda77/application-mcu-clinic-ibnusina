@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/inputandokteraudiogram",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\InputanDokterAudiogram\\": "app/",
+            "Modules\\InputanDokterAudiogram\\Database\\Factories\\": "database/factories/",
+            "Modules\\InputanDokterAudiogram\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\InputanDokterAudiogram\\Tests\\": "tests/"
+        }
+    }
+}

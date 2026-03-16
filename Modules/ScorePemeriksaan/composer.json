@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/scorepemeriksaan",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ScorePemeriksaan\\": "app/",
+            "Modules\\ScorePemeriksaan\\Database\\Factories\\": "database/factories/",
+            "Modules\\ScorePemeriksaan\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\ScorePemeriksaan\\Tests\\": "tests/"
+        }
+    }
+}

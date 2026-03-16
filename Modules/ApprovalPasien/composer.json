@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/approvalpasien",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\ApprovalPasien\\": "app/",
+            "Modules\\ApprovalPasien\\Database\\Factories\\": "database/factories/",
+            "Modules\\ApprovalPasien\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\ApprovalPasien\\Tests\\": "tests/"
+        }
+    }
+}

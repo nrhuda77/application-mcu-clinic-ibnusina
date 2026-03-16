@@ -1,0 +1,11 @@
+{
+    "name": "PemeriksaanGigi",
+    "alias": "pemeriksaangigi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PemeriksaanGigi\\Providers\\PemeriksaanGigiServiceProvider"
+    ],
+    "files": []
+}

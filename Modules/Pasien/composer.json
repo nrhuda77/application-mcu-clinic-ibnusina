@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/pasien",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Pasien\\": "app/",
+            "Modules\\Pasien\\Database\\Factories\\": "database/factories/",
+            "Modules\\Pasien\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\Pasien\\Tests\\": "tests/"
+        }
+    }
+}

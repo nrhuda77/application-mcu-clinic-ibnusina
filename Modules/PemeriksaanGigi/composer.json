@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/pemeriksaangigi",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PemeriksaanGigi\\": "app/",
+            "Modules\\PemeriksaanGigi\\Database\\Factories\\": "database/factories/",
+            "Modules\\PemeriksaanGigi\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\PemeriksaanGigi\\Tests\\": "tests/"
+        }
+    }
+}

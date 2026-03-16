@@ -1,0 +1,11 @@
+{
+    "name": "PemeriksaanNonLab",
+    "alias": "pemeriksaannonlab",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PemeriksaanNonLab\\Providers\\PemeriksaanNonLabServiceProvider"
+    ],
+    "files": []
+}

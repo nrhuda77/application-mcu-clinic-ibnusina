@@ -1,0 +1,11 @@
+{
+    "name": "InputanDokterAudiogram",
+    "alias": "inputandokteraudiogram",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\InputanDokterAudiogram\\Providers\\InputanDokterAudiogramServiceProvider"
+    ],
+    "files": []
+}

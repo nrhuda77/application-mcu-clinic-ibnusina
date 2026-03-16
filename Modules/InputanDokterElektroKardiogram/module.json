@@ -1,0 +1,11 @@
+{
+    "name": "InputanDokterElektroKardiogram",
+    "alias": "inputandokterelektrokardiogram",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\InputanDokterElektroKardiogram\\Providers\\InputanDokterElektroKardiogramServiceProvider"
+    ],
+    "files": []
+}

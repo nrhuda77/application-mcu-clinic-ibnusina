@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/pengajuanpasien",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\PengajuanPasien\\": "app/",
+            "Modules\\PengajuanPasien\\Database\\Factories\\": "database/factories/",
+            "Modules\\PengajuanPasien\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\PengajuanPasien\\Tests\\": "tests/"
+        }
+    }
+}

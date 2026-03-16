@@ -1,0 +1,11 @@
+{
+    "name": "BookingRegistrasi",
+    "alias": "bookingregistrasi",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BookingRegistrasi\\Providers\\BookingRegistrasiServiceProvider"
+    ],
+    "files": []
+}

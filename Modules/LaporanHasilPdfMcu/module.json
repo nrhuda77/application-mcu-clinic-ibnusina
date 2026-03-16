@@ -1,0 +1,11 @@
+{
+    "name": "LaporanHasilPdfMcu",
+    "alias": "laporanhasilpdfmcu",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LaporanHasilPdfMcu\\Providers\\LaporanHasilPdfMcuServiceProvider"
+    ],
+    "files": []
+}

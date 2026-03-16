@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/bookingperiksa",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BookingPeriksa\\": "app/",
+            "Modules\\BookingPeriksa\\Database\\Factories\\": "database/factories/",
+            "Modules\\BookingPeriksa\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\BookingPeriksa\\Tests\\": "tests/"
+        }
+    }
+}

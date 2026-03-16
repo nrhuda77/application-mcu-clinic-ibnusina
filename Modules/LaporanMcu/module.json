@@ -1,0 +1,11 @@
+{
+    "name": "LaporanMcu",
+    "alias": "laporanmcu",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\LaporanMcu\\Providers\\LaporanMcuServiceProvider"
+    ],
+    "files": []
+}
